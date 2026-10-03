@@ -1,6 +1,6 @@
 const TelegramBot = require('node-telegram-bot-api');
 
-const TOKEN = "8726969586:AAFI2DKl3q_QSlEOZ8ooYQeepPTMcOo4LP8";
+const TOKEN = "8726969586:AAFeCRMt20YtCW6vCAdKo11Mwv6vGySQ2JI";
 const CHANNEL_LINK = "https://t.me/+Q0TN7aLjeIw1OWM1";
 const VIP_LINK = "https://t.me/+tu4ddDJD36w2MTI1";
 
